@@ -1,0 +1,29 @@
+.kings{
+    height: 200px;
+    width: 200px;
+   
+}
+.royal{
+    height: 200px;
+    width: 200px;
+
+}
+.bg{
+    background-color: rgb(1, 1, 30);
+    height: 650px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+    color: aliceblue;
+
+}
+.a1{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.q1{
+    display: flex;
+    
+    margin-left: 500px;
+}

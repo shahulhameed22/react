@@ -1,0 +1,44 @@
+.star{
+    background-image: url("sky.jpg");
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 100px;
+    align-content: space-around;
+}
+.like{
+    background-color: yellow;
+    height:50px ;
+    width:100px ;
+    border-radius: 15px;
+    font-size: small;
+    margin-left: 80px;
+
+    
+    
+
+}
+.command{
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    font-size: small;
+    margin-left: 90px;
+
+}
+.share{
+    background-color: blue;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    font-size: small;
+    margin-left: 90px;
+
+}
+.hari{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+}

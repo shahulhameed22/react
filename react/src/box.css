@@ -1,0 +1,30 @@
+.boxb1{
+    background-color: rgb(229, 229, 51);
+    height: 200px;
+    width: 200px;
+    margin-top: 300px;
+
+}
+.boxd1{
+    background-color: skyblue;
+    height:350px;
+    width:350px ;
+    margin-top: 150px;
+}
+.boxf1{
+    background-color: #f542e3;
+    height: 450px;
+    width: 450px;
+    margin-top: 50px;
+    text-align: center;
+}
+.boxa1{
+    justify-content: space-between;
+    /* align-items: center;
+    text-align: center; */
+}
+.boxcontainer{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
